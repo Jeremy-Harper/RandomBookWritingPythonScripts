@@ -1,5 +1,5 @@
 # Document Word and Phrase Frequency Analyzer
-###File: duplicatewords.py
+##File: duplicatewords.py
 
 This Python script analyzes the frequency of words and phrases in a Microsoft Word document (.docx). It extracts the text from the document, calculates the frequency of individual words, and identifies the most common phrases of varying lengths. The results are displayed as data frames, showing the top occurrences for each category.
 
